@@ -242,17 +242,15 @@ body {
 
 .btnCortina{
   color: #ffcb05;
-  padding: 15px;
+  padding: 10px;
   background-color: #316ab2;
-  margin: 10px 0 10px 0;
+  margin: 6px 0 6px 0;
   font-weight: 800;
   border: 2px double #696969;
 }
 .btnCortina:hover {
   color: #cea501;
-  padding: 15px;
   background-color: #245085;
-  margin: 10px 0 10px 0;
   font-weight: 800;
 }
 
